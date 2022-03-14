@@ -7,7 +7,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #667;
-  background: #a9a9a9;
+  background: #a9a9a9 0 0 repeat-x;
   text-decoration: none;
 }
 
@@ -16,6 +16,6 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background:  #667;
+  background:  #667 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
