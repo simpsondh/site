@@ -8,7 +8,6 @@ body {
   line-height: 1.5;
   color: #667;
   background: #a9a9a9 0 0 repeat-x;
-  text-decoration: none;
 }
 
 
@@ -19,3 +18,9 @@ header {
   background:  #667 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
+
+body a {
+   text-decoration: none;
+   color: #FFF;
+}
+  
