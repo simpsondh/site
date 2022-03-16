@@ -462,7 +462,7 @@ footer a:hover {
 
 .door
 {
-  background-color: brown;
+  background-color: rgba(45, 24, 163, 0.904);
   position:absolute;
   top:0px;
   left:0px;
