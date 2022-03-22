@@ -12,15 +12,25 @@ body {
   background: #222
 }
 
+
+li {
+    list-style: none;
+}
+
+
+
 p {
   margin-top: 0;
 }
 
 a {
   color: #2879d0;
+  text-decoration: none;
 }
+
 a:hover {
   color: #2268b2;
+  text-decoration: none;
 }
 
 header {
