@@ -455,10 +455,12 @@ footer a:hover {
   position:relative;
   width:200px;
   height:300px;
-
+  border: 2px #2c3583;
+  border-radius: 0px 85px 85px 0px;
   margin: 0 auto;
   margin-top:50px;
 }
+
 
 .door
 {
@@ -469,7 +471,7 @@ footer a:hover {
   width:200px;
   height:300px;
   border: 2px #2c3583;
-  border-radius: 0px 75px 75px 0px;
+  border-radius: 0px 85px 85px 0px;
 
 
   transform-origin: left;
